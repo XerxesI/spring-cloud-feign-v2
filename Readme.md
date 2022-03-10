@@ -1,0 +1,2 @@
+https://github.com/eugenp/tutorials/blob/master/spring-cloud/spring-cloud-openfeign/src/main/java/com/baeldung/cloud/openfeign/oauthfeign/OAuthFeignConfig.java
+https://www.youtube.com/watch?v=_MMf2SvNqxo&t=254s
